@@ -1,0 +1,15 @@
+{
+  "name": "friends-1",
+  "version": "1.0.0",
+  "description": "test of using socket.io with node for server based multiplayer game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.0"
+  }
+}
